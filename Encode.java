@@ -1,5 +1,3 @@
-package extraCredit1302;
-
 import javax.swing.JFrame;
 
 public class Encode {
