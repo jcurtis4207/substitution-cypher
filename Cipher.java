@@ -1,5 +1,3 @@
-package extraCredit1302;
-
 /*
  *     This class creates a Cipher object with a field for a substitution cipher 'substituionKey'
  *     The encrypt method is used to encrypt a user-entered string using the 'substitutionKey'
