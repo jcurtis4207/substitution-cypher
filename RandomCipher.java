@@ -1,5 +1,3 @@
-package extraCredit1302;
-
 /*
  *    This class creates RandomCipher objects
  *    Each object gets a random substitution cipher, created by calling 'randomSort' on a sorted string of characters from a to z
